@@ -1,18 +1,23 @@
-# CS400_FALL2020
-Short Term Memory Test
+# Short-term Memory Test Online (Free)
+![image](https://user-images.githubusercontent.com/39285147/151662540-0d3e9d1c-e561-4cf7-80be-36170324b954.png)
 
-This repository is for CS400 and stores all projects in that course.
+### Challenge Memory Test Online for free!
 
-The website is for short term memory test. Notice the server is currently not running, so you should use your local environment for testing. I recommend to use Apache or Tomcat.
+Please refer to a demo video "*short-term-memory-test-demo*" for instruction.
 
-You might want to create your own test data and use it as you wish.
+**Skills Used**:
+- Javascript, Java, HTML/CSS, JSON, CGI
 
-Skills Used
-* Javascript
-* Java
-* HTML
-* CSS
-* JSON
-* CGI
+## Notes
+The virtual machine I would use for the website is not up and running (subscription expired).
 
-Hope you enjoy it!
+I recommend you set up your local environment for testing: Apache is one of the best web server software.
+
+![image](https://user-images.githubusercontent.com/39285147/151662474-d6de8ea8-16ea-4578-8fa6-394534be63a9.png)
+
+## Others
+Made by Eric Choi.
+
+If you want to see the codes, contact me on Linkedin.
+
+Thank you for your time reading this instruction, and hope you enjoy this app! Wish you all the best.
