@@ -3,13 +3,13 @@
 
 ### Challenge Memory Test Online for free!
 
-Please refer to a demo video "*short-term-memory-test-demo*" for instruction.
+Please watch a demo video "*short-term-memory-test-demo*" for instruction.
 
 **Skills Used**:
 - Javascript, Java, HTML/CSS, JSON, CGI
 
 ## Notes
-The virtual machine I would use for the website is not up and running (subscription expired).
+The virtual machine I would use for the website is not currently up and running (subscription expired).
 
 I recommend you set up your local environment for testing: Apache is one of the best web server software.
 
@@ -20,4 +20,6 @@ Made by Eric Choi.
 
 If you want to see the codes, contact me on Linkedin.
 
-Thank you for your time reading this instruction, and hope you enjoy this app! Wish you all the best.
+Thank you for your time reading this instruction, and hope you enjoy this app!
+
+Wish you all the best.
