@@ -16,7 +16,6 @@ I recommend you set up your local environment for testing: Apache is one of the 
 ![image](https://user-images.githubusercontent.com/39285147/151662474-d6de8ea8-16ea-4578-8fa6-394534be63a9.png)
 
 ## Others
-Made by Eric Choi.
 
 If you want to see the codes, contact me on Linkedin.
 
